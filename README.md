@@ -36,7 +36,9 @@ npm run dev, node server.js
 Project Documentation
 For Software:
 
-Screenshots (Add at least 3)!
+Screenshots 
+
+
 [Screenshot 2025-02-09 094713](https://github.com/user-attachments/assets/4d8c21d3-2cbf-42de-8742-8ba6dc12f42d) Home page
 
 ![Screenshot 2025-02-09 094735](https://github.com/user-attachments/assets/2b797b45-829d-40b0-b05a-e9d7e74b6a5f)  Login page

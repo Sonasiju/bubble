@@ -9,15 +9,15 @@ Member 3: Nitha Anto V- CUSAT, SOE
 
 
 Hosted Project Link
-[mention your project hosted project link here]
+https://youtu.be/UviPcFNcY_w
 
-Project Description
+Project Description:
 aims to provide a support system for people suffering from mental stress by connecting with people who also have gone through the same.
 
-The Problem statement
+The Problem statement:
 aims to provide a support system for people suffering from mental stress by connecting with people who also have gone through the same.
 
-The Solution
+The Solution:
 helping people connect with others that they can relate with.
 
 Technical Details
